@@ -1,2 +1,8 @@
 # Google App Engine generated folder
 appengine-generated/
+npm install --save \
+    @demox-labs/aleo-wallet-adapter-base \
+    @demox-labs/aleo-wallet-adapter-react \
+    @demox-labs/aleo-wallet-adapter-reactui \
+    @demox-labs/aleo-wallet-adapter-leo \
+    react
